@@ -1,4 +1,8 @@
 class Car {
+  company;
+  model;
+  year;
+
   constructor(company, model, year) {
     this.company = company;
     this.model = model;
